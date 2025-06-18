@@ -1,6 +1,6 @@
 marks = 0
 
-print("Welcome to the quiz! \n")
+print("Welcome To The Quiz! \n")
 
 # Question 1
 print("What is the sum of 20 + 20?")
